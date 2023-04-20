@@ -1,0 +1,14 @@
+D:\ProgramasVS\shutdownProyect\obj\Debug\netcoreapp3.1\shutdownProyect.csproj.AssemblyReference.cache
+D:\ProgramasVS\shutdownProyect\obj\Debug\netcoreapp3.1\shutdownProyect.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramasVS\shutdownProyect\obj\Debug\netcoreapp3.1\shutdownProyect.AssemblyInfoInputs.cache
+D:\ProgramasVS\shutdownProyect\obj\Debug\netcoreapp3.1\shutdownProyect.AssemblyInfo.cs
+D:\ProgramasVS\shutdownProyect\obj\Debug\netcoreapp3.1\shutdownProyect.csproj.CoreCompileInputs.cache
+D:\ProgramasVS\shutdownProyect\bin\Debug\netcoreapp3.1\shutdownProyect.exe
+D:\ProgramasVS\shutdownProyect\bin\Debug\netcoreapp3.1\shutdownProyect.deps.json
+D:\ProgramasVS\shutdownProyect\bin\Debug\netcoreapp3.1\shutdownProyect.runtimeconfig.json
+D:\ProgramasVS\shutdownProyect\bin\Debug\netcoreapp3.1\shutdownProyect.runtimeconfig.dev.json
+D:\ProgramasVS\shutdownProyect\bin\Debug\netcoreapp3.1\shutdownProyect.dll
+D:\ProgramasVS\shutdownProyect\bin\Debug\netcoreapp3.1\shutdownProyect.pdb
+D:\ProgramasVS\shutdownProyect\obj\Debug\netcoreapp3.1\shutdownProyect.dll
+D:\ProgramasVS\shutdownProyect\obj\Debug\netcoreapp3.1\shutdownProyect.pdb
+D:\ProgramasVS\shutdownProyect\obj\Debug\netcoreapp3.1\shutdownProyect.genruntimeconfig.cache
